@@ -79,17 +79,17 @@ This project is deployed on Firebase hosting.
 
 ### Install Firebase Tools
 
-We need to install firebase tools globally in the command prompt window.
+Install firebase tools by running the following command in CLI.
 
 `npm install -g firebase-tools`
 
 ### Initialize the Firebase App
 
-First we need to login to Firebase in the command prompt.
+Login to Firebase.
 
 `firebase login`
 
-Open the root folder of your app in the command prompt and run the following command.
+Navigate to the root folder of your app in the CLI and run the following command.
 
 `firebase init`
 
@@ -97,6 +97,6 @@ This command will initialize your app.
 
 ### Deploy Firebase App
 
-This is the last step in this chapter. Run the following command from the command prompt to deploy your app.
+This is the last step in this chapter. Run the following command in the CLI to deploy your app.
 
 `firebase deploy`

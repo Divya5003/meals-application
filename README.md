@@ -97,6 +97,6 @@ This command will initialize your app.
 
 ### Deploy Firebase App
 
-This is the last step in this chapter. Run the following command in the CLI to deploy your app.
+This is the last step. Run the following command in the CLI to deploy your app.
 
 `firebase deploy`
